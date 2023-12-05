@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">AsUwish</string>
+    <string name="Home_button">Home</string>
+    <string name="Settings_button">Settings</string>
+    <string name="Analyze_button">Analyze</string>
+    <string name="Add_button">Add</string>
+    <string name="Wish_item">Wish item</string>
+    <string name="Description">Description</string>
+    <string name="Price">Price</string>
+    <string name="item_name">No name</string>
+    <string name="Price_num">No price</string>
+    <string name="Description_text">No Description</string>
+    <string name="Progress">Your progress</string>
+    <string name="Goal">Goal:</string>
+    <string name="GoalInput">Enter you Goal</string>
+    <string name="Goal_number">Enter a number to set your goal</string>
+</resources>

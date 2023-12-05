@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">如你所愿</string>
+    <string name="Home_button">主页</string>
+    <string name="Settings_button">设置</string>
+    <string name="Analyze_button">分析</string>
+    <string name="Add_button">添加</string>
+    <string name="Wish_item">愿望物品</string>
+    <string name="Description">描述</string>
+    <string name="Price">价格</string>
+    <string name="item_name">未命名</string>
+    <string name="Price_num">为输入价格</string>
+    <string name="Description_text">无描述</string>
+    <string name="Progress">进展</string>
+    <string name="Goal">目标：</string>
+    <string name="GoalInput">输入你的目标</string>
+    <string name="Goal_number">输入你的目标</string>
+</resources>
